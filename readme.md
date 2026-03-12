@@ -1,3 +1,4 @@
 # První domácí úkol - fractions
 
-Jakub Kučera
+Jakub Kučera  
+Hodnocení: V pořádku  
